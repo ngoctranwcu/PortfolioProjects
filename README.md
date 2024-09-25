@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Portfolio Projects
 
 Python Projects
 1. Explored loan data using data visualization (Udacity Data)
