@@ -101,7 +101,7 @@ set type = 'Borough'
 where type = 'Boroughs'
 ;
 
-#profile alan and awater clumns.
+#profile alan and awater columns.
 select aland, awater, count(*) 
 from us_household_income
 group by aland, awater
