@@ -6,6 +6,7 @@ A. Python Projects
 B. SQL Projects:
   1. World_Life_Expectancy_Data_Cleaning_Script
   2. World_Life_Expectancy_Exploratory_Data_Analysis_Script
+  3. US Household Income Data Cleaning Script
 
 C. Tableau Projects :
   View Tableau Projects at "https://public.tableau.com/app/profile/ngoc.tran8884/vizzes"
