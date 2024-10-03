@@ -8,6 +8,7 @@ B. SQL Projects:
   2. US_Household_Income_Exploratory_Data_Analysis_Script
   3. World_Life_Expectancy_Data_Cleaning_Script
   4. World_Life_Expectancy_Exploratory_Data_Analysis_Script
+  5. Automated_Data_Cleaning_Project_Script
 
 C. Tableau Projects :
   View Tableau Projects at "https://public.tableau.com/app/profile/ngoc.tran8884/vizzes"
