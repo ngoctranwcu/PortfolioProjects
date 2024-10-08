@@ -2,6 +2,7 @@
 
 A. Python Projects
   1. Explored loan data using data visualization (Udacity Data) (Part I & II Exploration New Loan Origination)
+  2. movie_genres_data_analysis_project.ipynb
 
 B. SQL Projects:
   1. US_Household_Income_Data_Cleaning_Script
