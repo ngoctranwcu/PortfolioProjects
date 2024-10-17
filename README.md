@@ -14,6 +14,6 @@ B. SQL Projects:
 C. Tableau Projects :
   View Tableau Projects at "https://public.tableau.com/app/profile/ngoc.tran8884/vizzes"
   1. KPI Dashboard - Call Center Data
-  2. Telco Customter Churn Rate Dashboard
+  2. Telco Customer Churn Rate Dashboard
 
 
